@@ -1,0 +1,11 @@
+# Xcode
+.DS_Store
+xcuserdata
+.idea/
+*.hmap
+*.xccheckout
+!default.xcworkspace
+
+#CocoaPods
+Pods
+*.xcscheme
