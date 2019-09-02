@@ -4,5 +4,8 @@
         <page name='26. Remove Duplicates from Sorted Array'/>
         <page name='189. Rotate Array'/>
         <page name='268. Missing Number'/>
+        <page name='35. Search Insert Position'/>
+        <page name='88. Merge Sorted Array'/>
+        <page name='53. Maximum Subarray'/>
     </pages>
 </playground>
