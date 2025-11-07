@@ -1,0 +1,18 @@
+# macOS / IDE artifacts
+.DS_Store
+.idea/
+.vscode/
+
+# Go build caches
+go/bin/
+go/pkg/
+go/.cache/
+
+# Swift Package Manager
+swift/.build/
+swift/.swiftpm/
+swift/.cache/
+
+# Tool caches or temp files
+.cache/
+*.log
